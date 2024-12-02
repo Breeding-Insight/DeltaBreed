@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: DeltaBreed
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - name: Breeding insight
+    address: Cornell University
+    city: Ithaca
+    country: US
+    website: 'https://breedinginsight.org/'
+repository-code: 'https://github.com/Breeding-Insight/DeltaBreed'
+url: 'https://breedinginsight.org/'
+abstract: >
+  DeltaBreed is a BrAPI-centric breeding management system
+  made by Breeding Insight for USDA-ARS specialty crop and
+  animal breeders.
+keywords:
+  - >-
+    information system, breeding, phenotyping, genotyping,
+    pedigree, samples, experiments, observations, ontology
+license: Apache-2.0
