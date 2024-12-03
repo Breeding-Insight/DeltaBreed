@@ -25,6 +25,14 @@ ____
   <a href="https://breedinginsight.org/contact-us/">Contact Us</a>
 </p>
 
+## Try DeltaBreed
+
+The easiest way to try DeltaBreed is to use [our public sandbox](https://sandbox.breedinginsight.net/). The User Manual, which describes how to use DeltaBreed's features, may be viewed [here](https://breedinginsight.atlassian.net/wiki/x/I4AlZ).
+
+> Please note: 
+>    - All submitted data are public; do not submit private data.
+>    - The database is routinely reset and submitted data may be removed without notice.
+
 ## Source Code
 
  DeltaBreed consists of several components. Our Java backend is [Breeding-Insight/bi-api](https://github.com/Breeding-Insight/bi-api), our Vue frontend is [Breeding-Insight/bi-web](https://github.com/Breeding-Insight/bi-web), and the easiest way to run the app is with our docker compose configurations, [Breeding-Insight/bi-docker-stack](https://github.com/Breeding-Insight/bi-docker-stack). Additional repositories that DeltaBreed depends on include our Java BrAPI client, [Breeding-Insight/brapi](https://github.com/Breeding-Insight/brapi), our fork of the BrAPI Java Server, [Breeding-Insight/brapi-Java-TestServer](https://github.com/Breeding-Insight/brapi-Java-TestServer), and our browser-based test automation framework, [Breeding-Insight/taf](https://github.com/Breeding-Insight/taf).
