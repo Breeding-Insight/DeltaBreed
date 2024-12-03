@@ -30,8 +30,8 @@ ____
 The easiest way to try DeltaBreed is to use [our public sandbox](https://sandbox.breedinginsight.net/). The User Manual, which describes how to use DeltaBreed's features, may be viewed [here](https://breedinginsight.atlassian.net/wiki/x/I4AlZ).
 
 > Please note: 
->    - All submitted data are public; do not submit private data.
->    - The database is routinely reset and submitted data may be removed without notice.
+>    - All submitted data are public; do not submit private data on the public sandbox.
+>    - The public sandbox database is routinely reset and submitted data may be removed without notice.
 
 ## Source Code
 
