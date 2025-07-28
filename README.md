@@ -33,6 +33,12 @@ The easiest way to try DeltaBreed is to use [our public sandbox](https://sandbox
 >    - All submitted data are public; do not submit private data on the public sandbox.
 >    - The public sandbox database is routinely reset and submitted data may be removed without notice.
 
+
+## Running DeltaBreed
+
+To run an instance of DeltaBreed on one's local machine, the [bi-docker-stack](https://github.com/Breeding-Insight/bi-docker-stack) repository can be used to run DeltaBreed via docker containers. The README in said repository contains a guide for setting up and running DeltaBreed.
+
+
 ## Source Code
 
  DeltaBreed consists of several components. Our Java backend is [Breeding-Insight/bi-api](https://github.com/Breeding-Insight/bi-api), our Vue frontend is [Breeding-Insight/bi-web](https://github.com/Breeding-Insight/bi-web), and the easiest way to run the app is with our docker compose configurations, [Breeding-Insight/bi-docker-stack](https://github.com/Breeding-Insight/bi-docker-stack). Additional repositories that DeltaBreed depends on include our Java BrAPI client, [Breeding-Insight/brapi](https://github.com/Breeding-Insight/brapi), our fork of the BrAPI Java Server, [Breeding-Insight/brapi-Java-TestServer](https://github.com/Breeding-Insight/brapi-Java-TestServer), and our browser-based test automation framework, [Breeding-Insight/taf](https://github.com/Breeding-Insight/taf).
